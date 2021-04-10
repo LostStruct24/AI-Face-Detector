@@ -7,6 +7,7 @@ import Logo from './components/Logo/Logo';
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Rank from './components/Rank/Rank';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
+import {Helmet} from "react-helmet";
 
 const app = new Clarifai.App({
   apiKey: '12c2ace8037f45df80c199ee9829a326'
@@ -66,6 +67,9 @@ class App extends Component {
   render () {
     return (
       <div className="App">
+        <Helmet>
+          <title>AI Face Detector</title>
+        </Helmet> 
         <Particles className='particles'
           params={particlesOptions} />
         <Navigation />
