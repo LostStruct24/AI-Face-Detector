@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AI-Face-Detector/static/css/main.b3999b72.chunk.css",
-    "main.js": "/AI-Face-Detector/static/js/main.75ab8681.chunk.js",
-    "main.js.map": "/AI-Face-Detector/static/js/main.75ab8681.chunk.js.map",
+    "main.js": "/AI-Face-Detector/static/js/main.c5f422c5.chunk.js",
+    "main.js.map": "/AI-Face-Detector/static/js/main.c5f422c5.chunk.js.map",
     "runtime-main.js": "/AI-Face-Detector/static/js/runtime-main.4a5d1cb3.js",
     "runtime-main.js.map": "/AI-Face-Detector/static/js/runtime-main.4a5d1cb3.js.map",
     "static/css/2.fe359a49.chunk.css": "/AI-Face-Detector/static/css/2.fe359a49.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.f73185aa.chunk.js",
     "static/css/main.b3999b72.chunk.css",
-    "static/js/main.75ab8681.chunk.js"
+    "static/js/main.c5f422c5.chunk.js"
   ]
 }
